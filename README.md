@@ -1,2 +1,2 @@
-# Neural-Network---Perceptron
+# neural-network-Perceptron
 NN-hw1
