@@ -4,6 +4,8 @@
 ![](https://github.com/shuyu1215/Neural-Network---Perceptron/blob/main/img/demo.gif?raw=true)
 ### Requirement
 This project use Python 3 
-```numpy
-```pandas
-```matplotlib
+```
+numpy
+pandas
+matplotlib
+```
